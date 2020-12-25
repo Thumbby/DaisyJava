@@ -1,0 +1,12 @@
+.collection_page{
+    background-color:#f0f2f5;
+}
+#collection_content {
+    margin-top:60px;
+    height: 100%;
+}
+#colle_card{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: white;
+}
